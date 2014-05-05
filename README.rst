@@ -8,7 +8,7 @@ I'm just a proxy
 Loveingly extracted from `werkzeug`_.  A very useful proxy implementation, that I found to be useful outside
 the web context -- hence the extraction.
 
-Impedius
+Impetus
 --------
 
 I was working on a module and I wanted it to have a @property like you can do on `objects`.  No dice.  
